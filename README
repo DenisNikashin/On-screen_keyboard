@@ -1,0 +1,11 @@
+This project is a copy that is taken from this repository https://github.com/james-d
+
+" A simple Virtual Keyboard for JavaFX 8 (version 8 is required to be able to use public
+constructors for the KeyEvent class).
+
+All important code is in VirtualKeyboard.java.
+A simple use case is shown in VirtualKeyboardExample.java."
+
+In this version, I'm trying to add multilanguage support.
+
+The program is not finished
